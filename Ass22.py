@@ -3,3 +3,4 @@ electives = ("Business Intelligence", "Big Data Analytics")
 
 print(len(courses))
 print(courses)
+print(courses + electives)
